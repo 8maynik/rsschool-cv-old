@@ -28,6 +28,7 @@ multiply = function (a, b) {
 ## EDUCATION
 RS School
 DL Academy
+Self-study
 
 ## ENGLISH
 Pre-Intermediate (A2)
